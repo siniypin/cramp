@@ -2,4 +2,4 @@
 test/tests.log
 .rvmrc
 
-*/.idea/*
+.idea/*
